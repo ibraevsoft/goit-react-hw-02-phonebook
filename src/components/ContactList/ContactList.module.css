@@ -1,0 +1,15 @@
+.item {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  width: 80px;
+  margin-left: 20px;
+  border-radius: 5px;
+  transition: all 250ms linear;
+}
+
+.btn:hover {
+  background-color: blue;
+}
